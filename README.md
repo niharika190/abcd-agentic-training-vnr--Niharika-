@@ -1,11 +1,11 @@
-## Full_Stack_App
+## Full_stack_app
 (https://github.com/niharika190/FullStackApp)
 
-## ML_Project
+## ML app
 (https://github.com/niharika190/ML-project)
 
- ##Tokenization
+ ## Tokenization
  (https://github.com/niharika190/tokanization)
 
- ##cosine search
+ ## cosine search
  (https://github.com/niharika190/cosine-search)
